@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMaroon">#810541</color>
+    <color name="colorEggPlant">#614051</color>
+    <color name="colorPlumPurple">#583759</color>
+    <color name="colorBloodRed">#7E3517</color>
+    <color name="colorRedDirt">#7F5217</color>
+    <color name="colorVampireGray">#5C5858</color>
+    <color name="colorAshGray">#666326</color>
+    <color name="colorbackground">#d4fda7</color>
+    <color name="colorbutton">#a2f7ff</color>
+    <color name="colorBG">#c0c2bf</color>
+</resources>

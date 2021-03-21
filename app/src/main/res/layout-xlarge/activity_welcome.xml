@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBG"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="com.sonetmathapp.sagor.mathapp.WelcomeActivity">
+
+    <Button
+        android:id="@+id/btnDataAndInformation"
+        android:layout_width="680dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="25dp"
+        android:layout_marginTop="140dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/information"
+        android:textAllCaps="false"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnPorimap"
+        android:layout_width="680dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/subset"
+        android:textAllCaps="false"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnInterest"
+        android:layout_width="680dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/munafa"
+        android:textAllCaps="false"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnLCM"
+        android:layout_width="680dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/lcmandhcf"
+        android:textAllCaps="false"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnPrimeNumber"
+        android:layout_width="680dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/primenumber"
+        android:textAllCaps="false"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnFactor"
+        android:layout_width="680dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/factor"
+        android:textAllCaps="false"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+</LinearLayout>
