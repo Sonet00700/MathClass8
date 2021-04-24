@@ -19,7 +19,7 @@ public class MeanActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("গড়");
+        getSupportActionBar().setTitle(R.string.mean);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mean);

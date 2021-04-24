@@ -10,6 +10,7 @@
     tools:context="com.sonetmathapp.sagor.mathapp.MainActivity">
 
     <TextView
+        android:id="@+id/textviewidtotalElement"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/total_number"
@@ -51,6 +52,7 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/textviewidshrenivaybodhan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/shreni_baybodhan"
@@ -92,6 +94,7 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/textviewidElementsare"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/elements_are_1"
@@ -141,6 +144,7 @@
         android:weightSum="10">
 
         <TextView
+            android:id="@+id/textviewidremainelementsnumber"
             android:layout_width="0dp"
             android:layout_height="40dp"
             android:layout_weight="7"

@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     public Button btnMode, btnMedian, btnMean, btnClear, btnAdd, btnEnter, btnShreniBabodhan;
     private TextView textViewRemainderNo;
     private EditText editTextTotalNo, editTextAllNo, editTextShreniBabodhan;
+    boolean language;
 
     ArrayList<Integer> arrayListIntValue = new ArrayList<Integer>();
     ArrayList<Integer> arrayListCount = new ArrayList<Integer>();
@@ -48,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("তথ্য ও উপাত্ত");
+        getSupportActionBar().setTitle(R.string.information);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -65,7 +66,6 @@ public class MainActivity extends AppCompatActivity {
         editTextAllNo = findViewById(R.id.editTextIdAllElements);
         editTextShreniBabodhan = findViewById(R.id.editTextIdShreniBabodhan);
         btnClear = findViewById(R.id.btnClear);
-
 
         //set onclickListener to button Enter
         btnEnter.setOnClickListener(new View.OnClickListener() {

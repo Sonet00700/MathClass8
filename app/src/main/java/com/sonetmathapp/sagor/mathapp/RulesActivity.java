@@ -20,7 +20,7 @@ public class RulesActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("Information");
+        getSupportActionBar().setTitle("Rules");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_rules);
 

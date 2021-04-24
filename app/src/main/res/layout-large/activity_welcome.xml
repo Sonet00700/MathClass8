@@ -8,19 +8,28 @@
     android:orientation="vertical"
     android:padding="15dp"
     tools:context="com.sonetmathapp.sagor.mathapp.WelcomeActivity">
-
+    <Button
+        android:id="@+id/btnLanguage"
+        android:layout_width="500dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/language"
+        android:textAllCaps="false"
+        android:textSize="40sp"
+        android:textStyle="bold" />
     <Button
         android:id="@+id/btnDataAndInformation"
         android:layout_width="500dp"
         android:layout_height="90dp"
         android:layout_gravity="center"
         android:layout_marginBottom="15dp"
-        android:layout_marginTop="120dp"
         android:background="@drawable/buttonshape"
         android:text="@string/information"
         android:textAllCaps="false"
         android:textSize="40sp"
-
         android:textStyle="bold" />
 
     <Button

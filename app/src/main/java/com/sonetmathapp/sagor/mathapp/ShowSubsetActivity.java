@@ -25,7 +25,7 @@ public class ShowSubsetActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("উপসেট");
+        getSupportActionBar().setTitle(R.string.subset);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show_subset);

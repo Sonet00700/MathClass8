@@ -25,7 +25,7 @@ public class ShowPrimeNumberActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("মৌলিক সংখ্যা");
+        getSupportActionBar().setTitle(R.string.primenumber);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show_prime_number);

@@ -27,7 +27,7 @@ public class MunafaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("মুনাফা");
+        getSupportActionBar().setTitle(R.string.munafa);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_munafa);

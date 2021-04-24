@@ -31,7 +31,7 @@ public class GunitokActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("গুণনীয়ক ও গুণিতক");
+        getSupportActionBar().setTitle(R.string.factor);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_gunitok);

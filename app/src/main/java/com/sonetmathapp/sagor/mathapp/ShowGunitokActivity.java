@@ -21,7 +21,7 @@ public class ShowGunitokActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("গুণিতক");
+        getSupportActionBar().setTitle(R.string.gunitok);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show_gunitok);

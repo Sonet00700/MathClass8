@@ -19,7 +19,7 @@ public class MedianActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("মধ্যক");
+        getSupportActionBar().setTitle(R.string.median);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_median);

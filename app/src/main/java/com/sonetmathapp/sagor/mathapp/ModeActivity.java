@@ -36,7 +36,7 @@ public class ModeActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("প্রচুরক");
+        getSupportActionBar().setTitle(R.string.mode);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mode);

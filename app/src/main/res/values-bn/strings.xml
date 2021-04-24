@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Math Class 8</string>
     <string name="myname">Md. Nayeem Sagor</string>
@@ -5,64 +6,64 @@
     <string name="cseuvname">B.Sc in CSE, WUB</string>
     <string name="gmail">sonetsagor@gmail.com</string>
 
-    <string name="total_number">Total Elements ?</string>
-    <string name="total">Total</string>
-    <string name="shreni_baybodhan">Class Interval ?</string>
-    <string name="shreni_baybodhan_2">Class Interval</string>
-    <string name="shreni_shongkha">Number of Class</string>
-    <string name="porishor">Range</string>
-    <string name="mean">Mean</string>
-    <string name="mean_ganitik">Arithmetic Mean</string>
-    <string name="mean_sorasori">Direct Mean</string>
-    <string name="median">Median</string>
-    <string name="no_of_elements_remain">Remain Elements</string>
-    <string name="elements_are_1">Elements are ?</string>
-    <string name="elements_are">Elements are</string>
-    <string name="mode">Mode</string>
-    <string name="element">Elements</string>
-    <string name="information">Information</string>
-    <string name="max">Max Number</string>
-    <string name="min">Min Number</string>
-    <string name="frequency">Frequency</string>
+    <string name="total_number">মোট সংখ্যা কতটি ?</string>
+    <string name="total">মোট</string>
+    <string name="shreni_baybodhan">শ্রেণী ব্যবধান কত ?</string>
+    <string name="shreni_baybodhan_2">শ্রেণী ব্যবধান</string>
+    <string name="shreni_shongkha">শ্রেণি সংখ্যা </string>
+    <string name="porishor">পরিসর</string>
+    <string name="mean">গড়</string>
+    <string name="mean_ganitik">সংক্ষিপ্ত গড়</string>
+    <string name="mean_sorasori">সরাসরি গড়</string>
+    <string name="median">মধ্যক</string>
+    <string name="no_of_elements_remain">উপাত্ত বাকি আছে</string>
+    <string name="elements_are_1">উপাত্ত গুলো হলো ?</string>
+    <string name="elements_are">উপাত্ত গুলো হলো</string>
+    <string name="mode">প্রচুরক</string>
+    <string name="element">উপাত্ত</string>
+    <string name="information">তথ্য ও উপাত্ত</string>
+    <string name="max">সর্বোচ্চ সংখ্যা</string>
+    <string name="min">সর্বনিম্ন সংখ্যা</string>
+    <string name="frequency">সংখ্যা </string>
 
-    <string name="gunitok_gulo">Multiples are</string>
-    <string name="gunitok">Multiplier</string>
-    <string name="gunoniok_gulo">Factors are</string>
-    <string name="gunonyiok">Factors</string>
-    <string name="gunoniok">Finding Multiplier and Factor</string>
-    <string name="gunonioknirnoy">Enter the numbers(Factors) ?</string>
-    <string name="gunitoknirnoy">Enter the Number(MUltipliers) ?</string>
-    <string name="gunitoknirnoyrange">Miximum range of Multiplier ?</string>
-    <string name="factor">Factor and Multilier</string>
+    <string name="gunitok_gulo">গুণিতক গুলো হলো</string>
+    <string name="gunitok">গুণিতক</string>
+    <string name="gunoniok_gulo">গুণনীয়ক গুলো হলো</string>
+    <string name="gunonyiok">গুণনীয়ক</string>
+    <string name="gunoniok">গুণনীয়ক ও গুণিতক নির্ণয়</string>
+    <string name="gunonioknirnoy">কোন সংখ্যার গুণনীয়ক নির্ণয় করতে হবে ?</string>
+    <string name="gunitoknirnoy">কোন সংখ্যার গুণিতক নির্ণয় করতে হবে ?</string>
+    <string name="gunitoknirnoyrange">গুণিতক গুলো কত থেকে ছোট হবে ?</string>
+    <string name="factor">গুণনীয়ক ও গুণিতক</string>
 
-    <string name="prime_text1">Range of the Prime Number ?</string>
-    <string name="prime_text2">Minimum Number ?</string>
-    <string name="prime_text3">Maximum Number ?</string>
-    <string name="prime_text4">( You can only search from Minimum Number 1 to maximum Number 100000 )</string>
-    <string name="prime_text5">Total Prime Number</string>
-    <string name="prime_text6">Prime Numbers are</string>
-    <string name="primenumber">Prime Number</string>
+    <string name="prime_text1">কত থেকে কত পর্যন্ত মৌলিক সংখ্যা নির্ণয় করতে হবে ?</string>
+    <string name="prime_text2">সর্বনিম্ন সংখ্যা কত ?</string>
+    <string name="prime_text3">সর্বোচ্চ সংখ্যা কত ?</string>
+    <string name="prime_text4">(সর্বনিম্ন 1 থেকে সর্বোচ্চ 100000 পর্যন্ত মৌলিক সংখ্যা নির্ণয় করা যাবে)</string>
+    <string name="prime_text5">মোট মৌলিক সংখ্যা</string>
+    <string name="prime_text6">মৌলিক সংখ্যা গুলো হলো</string>
+    <string name="primenumber">মৌলিক সংখ্যা</string>
 
-    <string name="munafa">Interest</string>
-    <string name="muldhon">Principle(P) ?</string>
-    <string name="somoy">Time(n) ?</string>
-    <string name="munafar_har">Rate of Interest (r%)?</string>
-    <string name="sorol_munafa">Simple Interest(I) = </string>
-    <string name="chokrobiddhi_munafa">Compound Interest(C-P) = </string>
-    <string name="chokrobiddhi_muldhon">Compound Principle(C) = </string>
-    <string name="munafar_parthokko">Difference between Compound Interest and Simple Interest = </string>
+    <string name="munafa">মুনাফা</string>
+    <string name="muldhon">মূলধন(P) কত টাকা ?</string>
+    <string name="somoy">সময়(n) কত বছর ?</string>
+    <string name="munafar_har">মুনাফার হার, r (বার্ষিক শতকরা মুনাফা) কত %?</string>
+    <string name="sorol_munafa">সরল মুনাফা(I) = </string>
+    <string name="chokrobiddhi_munafa">চক্রবৃদ্ধি মুনাফা(C-P) = </string>
+    <string name="chokrobiddhi_muldhon">চক্রবৃদ্ধি মূলধন(C) = </string>
+    <string name="munafar_parthokko">চক্রবৃদ্ধি মুনাফা ও সরল মুনাফার পার্থক্য  = </string>
 
-    <string name="lcmandhcf">H.C.F and L.C.M </string>
-    <string name="lcm_text1">Total Numbers ?</string>
-    <string name="lcm_text2">The Numbers are ?</string>
+    <string name="lcmandhcf">গ.সা.গু ও ল.সা.গু</string>
+    <string name="lcm_text1">কত গুলো সংখ্যার গ.সা.গু ও ল.সা.গু নির্ণয় করতে হবে ?</string>
+    <string name="lcm_text2">সংখ্যা গুলো হলো ?</string>
 
-    <string name="subset">Subset</string>
-    <string name="subset_1">Total Numbers of the Set ? </string>
-    <string name="subset_2">The Elements of the Set are ?</string>
-    <string name="subset_3">Total Subsets number</string>
-    <string name="subset_4">The Subsets are </string>
+    <string name="subset">উপসেট</string>
+    <string name="subset_1">সেটের উপাদান সংখ্যা কতটি ? </string>
+    <string name="subset_2">সেটের উপাদান গুলো হলো ?</string>
+    <string name="subset_3">মোট উপসেট সংখ্যা </string>
+    <string name="subset_4">উপসেট গুলো হলো</string>
 
-    <string name="porimap">Measurement</string>
+    <string name="porimap">পরিমাপ</string>
     <string name="clear">Clear</string>
     <string name="zero">0</string>
     <string name="enter">Enter</string>
@@ -80,80 +81,79 @@
     <string name="share">Share</string>
     <string name="rating">Rating</string>
 
-    <string name="show_mean">Mean: In general, the Mean is a value representing a number.
-        \n\n Such as if there are five people in a house and their age is 12, 16, 18, 34 and 36
-        However, the question of their "average/Mean age" is relevant.
-         \n\n Here 12, 16, 18, 34, 36 is a number,
-        Each number is a statistic and a statistic of "Mean age".
-        \n \n In mathematics, "data" is the "Mean" or "centripetal" of a data.
-        Refers to "representative" or "average value".
-        \n \n Mean or central trend in statistics
-        There are different methods of measurement, such as mathematical mean, mean and abundant.
-        \n \n Mean can be found in two ways. \n 1 Direct Mean and
-         \n 2 Arithmetic Mean  \n \n
-        Formula: \n 1. Direct Mean = Sum of numbers / Total number.
-        \n 2. Arithmetic Mean = (∑fixi / n) \n \nHere,
-         \n n = total number, \ n fi = Frequency, \n xi = Mid class Value.
-    \n ∑fixi=Sum of all the product of fi and xi</string>
+    <string name="show_mean">গড়: সাধারণভাবে গড় হলো এক রাশি সংখ্যার প্রতিনিধিস্থানীয় একটি মান ।
+        \n\nযেমন একটি বাসায় যদি পাঁচ জন মানুষ থাকে এবং তাদের বয়স যদি ১২, ১৬, ১৮, ৩৪ এবং ৩৮ হয়
+        তবে তাদের "গড় বয়স" কত সে প্রশ্নটি প্রাসঙ্গিক ।
+        \n\nএখানে ১২, ১৬, ১৮, ৩৪, ৩৮ একটি রাশি,
+        প্রতিটি সংখ্যা একটি উপাত্ত এবং "গড় বয়স" একটি পরিসংখ্যান ।
+        \n\nগণিতে কোনো উপাত্তের "গড়" বা "কেন্দ্রপ্রবণতা" বলতে সেই উপাত্তের
+        "প্রতিনিধিস্থানীয়" বা "মাঝামাঝি মান" বোঝায় ।
+        \n\nপরিসংখ্যানে গড় বা কেন্দ্রীয় প্রবণতা
+        পরিমাপের বিভিন্ন পদ্ধতি রয়েছে যেমন, গাণিতিক গড়, মধ্যক এবং প্রচুরক ।
+        \n\nগড় ২ ভাবে বের করা যায় ।\n১ সরাসরি গড় এবং
+        \n২ সংক্ষিপ্ত পদ্ধতিগড়\n\n
+        সূত্র:\n1. সরাসরি গড়= সংখ্যা গুলোর যোগফল/মোট সংখ্যা ।
+        \n2. সংক্ষিপ্ত পদ্ধতি গড়=∑(fixi/n) \n\nএখানে,
+        \nn=মোট সংখ্যা,\nfi=গণ সংখ্যা,\nxi=শ্রেণী মধ্যমান ।</string>
 
-    <string name="show_median">Median: The median is to sort all the numbers in the number list in order of value
-        Intermediate numbers obtained later.
-        \n\nTo find a number in the list, first list the number
-        Arrange the first (larger) and last (smallest) numbers in order of quality.
-        Have to throw. If there is ever a single number left to move in this way, then that is median.
-        \nIf there are two left, their arithmetic mean is median.
-        \n \nFor example, to find the median in this method, first 1, 7, 3, 13
-        The list is sorted 1, 3, 7, 13 in this way. After that 1 and 13 are removed.
-        It has 3 and 6 left. Since there are two numbers left, their arithmetic mean is (3 + 7) / 2 = 5. 5 is the middle of this list.
-        \n \nRules: \n Mean = {(n + 1) / 2}th term (when n is an odd number) and
-        \n Mean = {(n / 2) th term + (n / 2 + 1) th term} / 2 (when n is even number).</string>
+    <string name="show_median">মধ্যক: মধ্যক হচ্ছে সংখ্যাতালিকার সব সংখ্যাকে মানের ক্রমানুসারে সাজানোর
+        পরে প্রাপ্ত মধ্যবর্তী সংখ্যা ।
+        \n\nকোনো সংখ্যা তালিকার মধ্যক বের করার জন্য প্রথমে তালিকাটিকে সংখ্যার
+        মানের ক্রমানুসারে সজিয়ে ক্রমাগত ভাবে প্রথম(বৃহত্তর) ও শেষ(ক্ষুদ্রতম) এই দুইটি সংখ্যা সরিয়ে
+        ফেলতে হবে । এভাবে সরাতে সরাতে যদি কখনো একটি মাত্র সংখ্যা বাকি থাকে তাহলে সেটাই মধ্যক ।
+        \nযদি দুইটি বাকি থাকে তাহলে তাদের গাণিতিক গড়ই হচ্ছে মধ্যক ।
+        \n\nযেমন, এই পদ্ধতিতে মধ্যক বের করার জন্য প্রথমে 1, 7, 3, 13 এই
+        তালিকা কে ক্রমানুসারে সাজিয়ে 1, 3, 7, 13 এভাবে লেখা হয় । এর পর ১ ও ১৩ কে সরিয়ে ফেলা হয় ।
+        এতে ৩ ও ৭ বাকি থাকে । যেহেতু দুইটি সংখ্যা বাকি আছে সেহেতু এদের গাণিতিক গড় (3 + 7)/2 = 5 । 5-ই হচ্ছে এই তালিকার মধ্যক ।
+        \n\nসূত্র:\nমধ্যক=(n+1)/2 তম পদ(যখন n বিজোড় সংখ্যা) এবং
+        \nমধ্যক={(n/২)তম পদ +(n/২+১) তম পদ}/২(যখন n জোড় সংখ্যা) ।</string>
 
-    <string name="show_mode">Mode: In statistics, mode is a value,
-        Which occurs most often in databases or probability formats.
-        \n \nMode like averages and median are a measure of a central tendency.
-        \nBut there can be more than one mode in a data or probability format,
-        As is the case with alignment - there are all possible values.
-        \n \nThe number that appears most frequently in a list is called the mode.
-         \n \nSuch as (1, 2, 2, 3, 3, 3, 4) the mode is 3.
-        \nMany list may not be well defined.
-        \nAs such as (1, 2, 2, 3, 3, 5) the two mode in this list are 2 and 3.
-        \n\nSometimes it may not be plentiful.</string>
+    <string name="show_mode">প্রচুরক: পরিসংখ্যানে, প্রচুরক হলো এমন একটি মান,
+        যা উপাত্ত-এ বা সম্ভাবনা বিন্যাস-এ সর্বোচ্চবার ঘটে ।
+        \n\nগড় এবং মধ্যক-এর মতন প্রচুরক একটি কেন্দ্রীয় প্রবণতার পরিমাপক ।
+        \nতবে একটি উপাত্তে বা সম্ভাবনা বিন্যাসে একাধিক প্রচুরক থাকতে পারে,
+        যেমনটি ঘটে সমবিন্যাসের ক্ষেত্রে - সেখানে সকল মান সম সম্ভাব্য ।
+        \n\nকোনো সংখ্যাতালিকায় সবচেয়ে বেশিবার যে সংখ্যার উপস্তিতি দেখা যায় তাকে বলে সেই তালিকার প্রচুরক ।
+        \n\nযেমন (1, 2, 2, 3, 3, 3, 4) এই তালিকার প্রচুরক হচ্ছে 3 ।
+        \nকোনো সংখ্যা তালিকার প্রচুরক সুনির্ধারিত নাও হতে পারে ।
+        \nযেমন (1, 2, 2, 3, 3, 5) এই তালিকার প্রচুরক দুইটি 2 ও 3 ।
+        \n\nকোনো কোনো সময় প্রচুরক নাও থাকতে পারে ।</string>
 
-    <string name="show_munafa">Profit: Profit is a kind of profit or interest,
-         \nThere are two types of profit, \n namely 1. Simple profit and
-          \n 2. Compounding Profit \n \nRules:  \n1. Simple Profit, I = Pnr,
-         \n2.Compound profit = C-P = P (1 + r)^n-P,
-         \n \nHere, \nP = capital / Principle, \nn = time, \nr = rate of profit% (percent annual profit)
-         \nC = compound capital/Principe.</string>
+    <string name="show_munafa">মুনাফা: মুনাফা হলো এক ধরণের লাভ বা সুদ,
+        \nমুনাফা ২ ধরণের হয়,\nযথা ১.সরল মুনাফা এবং
+        \n   ২.চক্রবৃদ্ধি মুনাফা\n\nসূত্র: \n১.সরল মুনাফা,I=Pnr ,
+        \n২.চক্রবৃদ্ধি মুনাফা=C-P\n =P(1+r)^n-P,
+        \n\nএখানে,\nP= মূলধন/আসল,\nn= সময়,\nr=মুনাফার হার %(শতকরা বার্ষিক মুনাফা)
+        \nC=চক্রবৃদ্ধি মূলধন ।</string>
 
-    <string name="show_gunitok">Multiplier: The product of any integer with a number is called a multiplier.
-         \n \nSuch that the multipliers of 3 are 3, 6, 9, 12, 15 .... etc. We can simply say that multiplication is the magnitude of an integer.</string>
+    <string name="show_gunitok">গুণিতক: কোনো সংখ্যার সঙ্গে যেকোনো পূর্ণসংখ্যার গুণফলকে গুণিতক বলে ।
+        \n\nযেমন ৩ এর গুণিতকগুলো হলো ৩, ৬, ৯, ১২, ১৫....ইত্যাদি । সহজভাবে আমরা বলতে পারি গুণিতক হলো পূর্ণসংখ্যার নামতা ।</string>
 
-    <string name="show_gunoniok">Factor: The number by which a number is divided does not have any remainder
-         These are called factors of that number.
-          \n \nExample: Factors of 6 are 1, 2, 3, 6 .
-         This factor has another name. This is called productive.</string>
+    <string name="show_gunoniok">গুণনীয়ক: যে সকল সংখ্যা দ্বারা কোনো সংখ্যাকে ভাগ করলে কোনো ভাগশেষ থাকে না সে
+        গুলোকে ওই সংখ্যার গুণনীয়ক বলে ।
+        \n\nউদাহরণ : ৮-এর গুণনীয়ক ১, ২, ৪, ৮ ।
+        এই গুণনীয়কের আরেকটি নাম আছে । একে বলে উৎপাদক ।</string>
 
-    <string name="show_prime_number">Prime Numbers: In mathematical terms, prime numbers are natural
-        Numbers that have only two separate producers: 1 and the number itself.
-        \n\nAll numbers greater than 1 that are not prime are called composite numbers.
-        \n \nAny prime number above 1 can be expressed as a product of all prime numbers except 1.
-        \n \n Dividing the square of each prime number greater than 3 by 12, 1 remains.
-        \n \nIratosthenis (26 BC - 194 BC) gave a simple algorithm to find the prime numbers,
-        Arrange all the numbers in a table and then mark the first number one by one as the prime number
-        All its multiples must be deducted. \n \nThe prime number is infinite, as Euclid proved around 300 BC.
-        \n \nThe number 1 is not prime by definition.</string>
+    <string name="show_prime_number">মৌলিক সংখ্যা: গণিতের পরিভাষায় মৌলিক সংখ্যা হল এমন প্রাকৃতিক
+        সংখ্যা যার কেবলমাত্র দুটো পৃথক  উৎপাদক আছে: ১ এবং ঐ সংখ্যাটি নিজে ।
+        \n\n১ এর চেয়ে বড় সকল সংখ্যা যারা মৌলিক না তাদেরকে যৌগিক সংখ্যা বলে ।
+        \n\n১ এর উপরে যেকোনো মৌলিক সংখ্যাকে ১ বাদে তার আগ পর্যন্ত সকল মৌলিক সংখ্যার গুনফল হিসাবে প্রকাশ করা যায় ।
+        \n\n৩ এর চেয়ে বড় প্রত্যেক মৌলিক সংখ্যার বর্গকে ১২ দ্বারা ভাগ করলে ১ অবশিষ্ট থাকে ।
+        \n\nইরাটস্থেনেস (২৭৬ খ্রিষ্টপূর্ব - ১৯৪ খ্রিষ্টপূর্ব) মৌলিক সংখ্যাগুলো বের করার একটা সহজ অ্যালগরিদম দিয়েছেন,
+        সব সংখ্যাগুলোকে ছকে সাজিয়ে তার পর এক এক করে প্রথম সংখ্যাটিকে মৌলিক সংখ্যা হিসেবে চিহ্নিত করে
+        তার সব গুণিতকগুলো কেটে দিতে হবে ।\n\nমৌলিক সংখ্যা অসীমসংখ্যক, যা কিনা ইউক্লিড খ্রিস্টপূর্ব ৩০০ সালের দিকে প্রমাণ করেন ।
+        \n\nসংজ্ঞানুসারে ১ সংখ্যাটি মৌলিক নয় ।</string>
 
-    <string name="show_lcm">HCF: (Highest common factor) The largest number of common factors of multiple numbers is called HCF. \n \n
-        The common factors of 4, 6 and 12 are 1 and 2. \n
-        Then according to the definition of HCF, the HCF = 2. \n
-      \nLCM: The least common multiple of two or more integers, or LCM, is the smallest number that is infinitely divisible by each of those numbers. \n \n
-        The least common multiple of 4 and 6 is 12.</string>
+    <string name="show_lcm">গ.সা.গু: (গরিষ্ঠ সাধারণ গুণনীয়ক) একাধিক সংখ্যার সাধারণ গুণনীয়কের মধ্যে সবচেয়ে বড় সংখ্যাকে গসাগু বলে ।\n\n
+        ৪, ৬ ও ১২-এর সাধারণ গুণনীয়ক হল ১ ও ২ ।\n
+        তাহলে গ.সা.গু.এর সংজ্ঞা অনুযায়ী এ রাশির গসাগু = ২ ।\n
+     \nল.সা.গু: দুই বা ততোধিক পূর্ণসংখ্যার লঘিষ্ঠ সাধারণ গুণিতক বা ল.সা.গু বলতে বুঝায় সেই ক্ষুদ্রতর সংখ্যা যা ওই সংখ্যাগুলোর প্রত্যেকটি দ্বারা নিঃশেষে বিভাজ্য |\n\n
+        ৪ এবং ৬ এর লঘিষ্ঠ সাধারণ গুণিতক হল ১২ ।</string>
 
-    <string name="show_subset">Subset: If A and B are Two set. And elements of A are also the elements of B, then A is the subset of B.\n\n
-              If Set A has 3(n) elements then the number of Subsets of A is 8 (2^n).\n\n
-        Such as: if Set A={1,2,3} then the Subsets of the Set A are
-        {1},{2},{3},{1,2},{1,3},{2,3},{1,2,3},{},\nWhich represents the formula 2^n.</string>
+    <string name="show_subset">উপসেট: যদি A ও B সেট হয় এবং A-এর প্রত্যেকটি সদস্য B-এরও সদস্য হয়, তবে: A হচ্ছে B-এর উপসেট ।\n\n
+              A সেট এর উপাদান সংখ্যা ৩(n) টি হলে এর উপসেট সংখ্যা ৮(2^n) টি হবে ।\n\n
+        যেমন-A={1,2,3} হলো একটি সেট এবং এর উপসেট গুলো হলো
+        {1},{2},{3},{1,2},{1,3},{2,3},{1,2,3},{},\nযা 2^n কে সমর্থন করে ।</string>
     <string name="language">Change Language</string>
 
 

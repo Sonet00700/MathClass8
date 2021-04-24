@@ -26,7 +26,7 @@ public class LCMActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("গ.সা.গু ও ল.সা.গু");
+        getSupportActionBar().setTitle(R.string.lcmandhcf);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lcm);
 
